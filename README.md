@@ -11,13 +11,15 @@ Este é um jogo simples de Tic-Tac-Toe (Jogo da Velha) implementado em Python, o
 Execute o jogo usando o seguinte comando:
 
 ```bash
+
 python tictactoe.py
 
-O jogo começará com um tabuleiro vazio e uma mensagem informando que é a vez do jogador "X". Para fazer uma jogada, insira a linha e a coluna desejadas (por exemplo, "1 2" para a primeira linha e segunda coluna) e pressione Enter.
 
-O jogo continuará alternando entre as jogadas do jogador humano (X) e da IA (O). A IA utiliza o algoritmo Minimax para fazer suas jogadas, buscando maximizar suas chances de vitória.
+1. jogo começará com um tabuleiro vazio e uma mensagem informando que é a vez do jogador "X". Para fazer uma jogada, insira a linha e a coluna desejadas (por exemplo, "1 2" para a primeira linha e segunda coluna) e pressione Enter.
 
-O jogo termina quando um dos jogadores vence (completa uma linha, coluna ou diagonal) ou quando ocorre um empate (velha). O resultado será exibido no final do jogo.
+2. jogo continuará alternando entre as jogadas do jogador humano (X) e da IA (O). A IA utiliza o algoritmo Minimax para fazer suas jogadas, buscando maximizar suas chances de vitória.
+
+3. jogo termina quando um dos jogadores vence (completa uma linha, coluna ou diagonal) ou quando ocorre um empate (velha). O resultado será exibido no final do jogo.
 
 Após o término de uma partida, você pode escolher jogar novamente ou encerrar o jogo
 
@@ -33,3 +35,5 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos 
 
 Créditos
 Este jogo foi implementado como parte de um projeto de aprendizado e é um exemplo de como você pode criar jogos e implementar IA em Python.
+
+
